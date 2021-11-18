@@ -48,16 +48,16 @@ function BibliographicProfiles() {
       <h3>
         <FontAwesomeIcon icon={faIdBadge} /> Bibliographic Profiles{" "}
       </h3>
-      <Button href="ORCID_PROFILE_LINK" variant="outline-warning">
+      <Button href="ORCID_PROFILE_LINK" variant="outline-success">
         <i className="ai ai-orcid" /> ORCID
       </Button>{" "}
-      <Button href="GOOGLE_SCHOLAR_PROFILE_LINK" variant="outline-warning">
+      <Button href="GOOGLE_SCHOLAR_PROFILE_LINK" variant="outline-success">
         <i className="ai ai-google-scholar" /> Google Scholar
       </Button>{" "}
-      <Button href="DBLP_PROFILE_LINK" variant="outline-warning">
+      <Button href="DBLP_PROFILE_LINK" variant="outline-success">
         <i className="ai ai-dblp" /> DBLP
       </Button>{" "}
-      <Button href="MICROSOFT_ACADEMICS_PROFILE_LINK" variant="outline-warning">
+      <Button href="MICROSOFT_ACADEMICS_PROFILE_LINK" variant="outline-success">
         <FontAwesomeIcon icon={faMicrosoft} /> Microsoft Academic
       </Button>
     </>
