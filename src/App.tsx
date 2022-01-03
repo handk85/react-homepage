@@ -16,7 +16,6 @@ import {
   faTwitter,
   faGithub,
   faLinkedin,
-  faMicrosoft,
 } from "@fortawesome/free-brands-svg-icons";
 import Button from "react-bootstrap/Button";
 import "academicons/css/academicons.css";
@@ -56,9 +55,6 @@ function BibliographicProfiles() {
       </Button>{" "}
       <Button href="DBLP_PROFILE_LINK" variant="outline-success">
         <i className="ai ai-dblp" /> DBLP
-      </Button>{" "}
-      <Button href="MICROSOFT_ACADEMICS_PROFILE_LINK" variant="outline-success">
-        <FontAwesomeIcon icon={faMicrosoft} /> Microsoft Academic
       </Button>
     </>
   );
