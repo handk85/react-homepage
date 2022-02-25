@@ -25,7 +25,7 @@ Please update `Contact` and `CV` functions in `src/App.tsx`.
 
 ### Update `public/index.html`
 
-Pleaese update meta tags with your information
+Please update meta tags with your information
 
 ### Update `public/manifest.json`
 
